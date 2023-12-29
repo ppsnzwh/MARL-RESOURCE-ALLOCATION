@@ -1,4 +1,6 @@
 # marl_resource_allocation
+**Read this in other languages: [中文](README_zh.md).**
+
 
 #### introduce
 qmix,vnd,coma to allocate resources. Because some Chinese notes may be marked for personal use, please delete them if not necessary after clone.

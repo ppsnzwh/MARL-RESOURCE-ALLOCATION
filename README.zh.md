@@ -1,4 +1,5 @@
 # marl_resource_allocation
+**其他语言版本: [English](README.md)**
 
 #### 介绍
 qmix,vnd,coma实现资源分配.因为个人需要可能标注了一些供自己使用的中文注释，clone完后如果不需要请自行删除。
