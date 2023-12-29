@@ -38,11 +38,11 @@ The /result directory is the location where data such as images of experiment re
 #### Partial result presentation
 
 1.  Experimental results of different algorithms
-![](D:\pycharm\pythonProject\marl_resource_allocation\result1.png)
+![](./result1.png)
 2.  Comparison of training process under laziness reward
-![](D:\pycharm\pythonProject\marl_resource_allocation\result2.png)
-3.  qmix algorithm based on the mechanism (1 million steps training)
-![](D:\pycharm\pythonProject\marl_resource_allocation\result3.png)
+![](./result2.png)
+3.  qmix_game algorithm based on the mechanism (1 million steps training)
+![](./result3.png)
 
 #### statement
 

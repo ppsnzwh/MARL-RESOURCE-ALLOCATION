@@ -37,11 +37,11 @@ qmix,vnd,coma实现资源分配.因为个人需要可能标注了一些供自己
 #### 部分结果展示
 
 1.  不同算法实验结果
-![](D:\pycharm\pythonProject\marl_resource_allocation\result1.png)
+![](./result1.png)
 2.  懒惰奖励下的训练过程对比
-![](D:\pycharm\pythonProject\marl_resource_allocation\result2.png)
-3.  基于机制下的qmix算法（100万步训练）
-![](D:\pycharm\pythonProject\marl_resource_allocation\result3.png)
+![](./result2.png)
+3.  基于机制下的qmix_game算法（100万步训练）
+![](./result3.png)
 
 #### 声明
 
