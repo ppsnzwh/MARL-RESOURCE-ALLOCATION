@@ -1,50 +1,49 @@
 # marl_resource_allocation
 
-#### 介绍
-qmix,vnd,coma实现资源分配.因为个人需要可能标注了一些供自己使用的中文注释，clone完后如果不需要请自行删除。
+#### introduce
+qmix,vnd,coma to allocate resources. Because some Chinese notes may be marked for personal use, please delete them if not necessary after clone.
 
-#### 软件架构
+#### Software architecture
 
-/agent目录为agent的实现。
+The /agent directory is the agent implementation.
 
-/common目录为通常的一些方法比如utils的实现。
+The /common directory is an implementation of common methods such as utils.
 
-/data目录为实验数据存放位置的实现。
+The /data directory is the implementation of the experimental data storage location.
 
-/env目录为环境设置的实现。
+The /env directory is the implementation of the environment Settings.
 
-/generate目录为数据增强扩充方式的实现。
+The /generate directory is the implementation of the data enhancement extension.
 
-/model目录为模型的保存位置。
+The /model directory is where the model is saved.
 
-/network目录为网络结构的实现。
+The /network directory is the implementation of the network structure.
 
-/policy目录为算法的实现。
+The /policy directory is the implementation of the algorithm.
 
-/requirement目录为用户需求的实现。
+The /requirement directory is an implementation of the user's requirement.
 
-/result目录为实验结果图片等数据保存位置。
-
-
-#### 安装教程
-
-1.  首先克隆仓库到本地
-2.  在主目录下根据requirements.txt安装依赖（依赖中存在可能没有用到的依赖，比如星际争霸2的依赖，没有安装上也没有关系）
-3.  你需要在/common/[argument.py](common%2Fargument.py)中修改参数，包括学习率，总步长等。然后就可以通过[main.py](main.py)运行。 
+The /result directory is the location where data such as images of experiment results are saved.
 
 
-#### 部分结果展示
+#### Installation tutorial
 
-1.  不同算法实验结果
+1.  First clone the repository locally
+2.  Install dependencies in your home directory according to requirements.txt（There are dependencies that may not be used, such as StarCraft 2's dependencies, even if they are not installed）
+3.  You need to modify the parameters in/common/[argument.py](common%2Fargument.py)，Including learning rate, total step size, etc.And then you can run it through [main.py](main.py). 
+
+
+#### Partial result presentation
+
+1.  Experimental results of different algorithms
 ![](D:\pycharm\pythonProject\marl_resource_allocation\result1.png)
-2.  懒惰奖励下的训练过程对比
+2.  Comparison of training process under laziness reward
 ![](D:\pycharm\pythonProject\marl_resource_allocation\result2.png)
-3.  基于机制下的qmix算法（100万步训练）
+3.  qmix algorithm based on the mechanism (1 million steps training)
 ![](D:\pycharm\pythonProject\marl_resource_allocation\result3.png)
 
-#### 声明
+#### statement
 
-该代码为论文“Online resource allocation model with time slot based on qmix”提供支撑。未经允许不可将代码用于自身论文的投稿。否则将追究责任。
-
+This code provides support for the paper "Online resource allocation model with time slot based on qmix". You may not use the code for your own paper submission without permission. Failure to do so will result in accountability.
 
 
