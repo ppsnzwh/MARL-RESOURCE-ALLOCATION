@@ -45,7 +45,7 @@ qmix,vnd,coma实现资源分配.因为个人需要可能标注了一些供自己
 
 #### 声明
 
-该代码为论文“Online resource allocation model with time slot based on qmix”提供支撑。未经允许不可将代码用于自身论文的投稿。否则将追究责任。
+该代码为论文“Research on online time slot resource allocation mechanism based on multi-agent reinforcement learning”提供支撑。未经允许不可将代码用于自身论文的投稿。否则将追究责任。
 
 
 
