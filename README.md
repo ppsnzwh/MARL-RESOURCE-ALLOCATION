@@ -46,6 +46,6 @@ The /result directory is the location where data such as images of experiment re
 
 #### statement
 
-This code provides support for the paper "Online resource allocation model with time slot based on qmix". You may not use the code for your own paper submission without permission. Failure to do so will result in accountability.
+This code provides support for the paper "Research on online time slot resource allocation mechanism based on multi-agent reinforcement learning". You may not use the code for your own paper submission without permission. Failure to do so will result in accountability.
 
 
